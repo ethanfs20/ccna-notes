@@ -7,3 +7,20 @@ Please Do Not Tell Sales People Anything
 
 Main Terminology:
 
+
+Layers:
+Layer 1: Physical
+	The physical layer comprises of the tangible hardware to transmit data. The following are examples of hardware that are at this layer: Optical Transceivers, Fiber Optic Cabling, Ethernet Cabling, Patch Panels, and Network Interface Cards (NICs). A great example of this layer is inside of a datacenter. Imagine a server rack that has multiple connections using ethernet and fiber optic cables. These cables end up communicating with Network Interface Cards (NICs) and in between can be plugged into patch panels to reduce cable length. You are also plugging the fiber optic cables into optical transceivers. Another great example is at home! You may have an ethernet cable providing access to this very page. That ethernet cable is transmitting data between your network devices and the computer. Guess what? Your devices include a Network Interface Card too! 
+
+Layer 2: Data Link
+	The Data Link layer refers to the technologies that are used to control the connection between nodes. The key term to understand is data frames, which simply put is a digital signal that is encapsulated into data packets along with flow & error control.
+
+Layer 3: Network
+
+Layer 4: Transport
+
+Layer 5: Session
+
+Layer 6: Presentation
+
+Layer 7: Application
